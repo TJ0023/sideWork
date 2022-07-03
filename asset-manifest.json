@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sidework/static/css/main.b27180f6.css",
-    "main.js": "/sidework/static/js/main.fb278035.js",
+    "main.js": "/sidework/static/js/main.984335e5.js",
     "static/js/787.3c5e7a93.chunk.js": "/sidework/static/js/787.3c5e7a93.chunk.js",
     "static/media/sleepingGif.gif": "/sidework/static/media/sleepingGif.2475ea946bb99e2d6990.gif",
     "static/media/spencer.jpg": "/sidework/static/media/spencer.74725ed5d4114aee017a.jpg",
@@ -45,11 +45,11 @@
     "static/media/Javascriptlogo.svg": "/sidework/static/media/Javascriptlogo.8e003be228681dc81bbf6fc9803c9c2b.svg",
     "static/media/menu.svg": "/sidework/static/media/menu.aad9faf92a14b8a0f822cd079983e5ce.svg",
     "main.b27180f6.css.map": "/sidework/static/css/main.b27180f6.css.map",
-    "main.fb278035.js.map": "/sidework/static/js/main.fb278035.js.map",
+    "main.984335e5.js.map": "/sidework/static/js/main.984335e5.js.map",
     "787.3c5e7a93.chunk.js.map": "/sidework/static/js/787.3c5e7a93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b27180f6.css",
-    "static/js/main.fb278035.js"
+    "static/js/main.984335e5.js"
   ]
 }
